@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Shreyash118
 - 👀 I’m interested in AI
 - 🌱 I’m currently learning Datascience
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
 <!---
